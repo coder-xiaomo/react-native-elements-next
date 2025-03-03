@@ -6,9 +6,9 @@ import Features from '../components/Features';
 import Installation from '../components/Installation';
 import StartNow from '../components/StartNow';
 import RunOnExpo from '../components/RunOnExpo';
-import Community from '../components/Community';
+// import Community from '../components/Community';
 import { FigmaKit, VScodeExt } from '../components/Extentions';
-import { Sponsors } from '../components/Sponsor';
+// import { Sponsors } from '../components/Sponsor';
 import '../../static/css/components.css';
 
 const Home: React.FunctionComponent<{}> = () => {
@@ -22,8 +22,8 @@ const Home: React.FunctionComponent<{}> = () => {
       <RunOnExpo />
       {/* <FigmaKit /> */}
       <VScodeExt />
-      <Sponsors />
-      <Community />
+      {/* <Sponsors /> */}
+      {/* <Community /> */}
       {/* <StartNow /> */}
     </Layout>
   );
