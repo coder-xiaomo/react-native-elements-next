@@ -2,8 +2,8 @@
 const config = {
   title: 'React Native Elements Next' /* title for your website */,
   tagline: 'Cross Platform React Native UI Toolkit',
-  url: 'https://reactnativeelements.com' /* your website url */,
-  baseUrl: '/' /* base url for your project */,
+  url: 'https://coder-xiaomo.github.io' /* your website url */,
+  baseUrl: '/react-native-elements-next/' /* base url for your project */,
   projectName: 'react-native-elements',
   organizationName: 'react-native-elements',
   clientModules: [

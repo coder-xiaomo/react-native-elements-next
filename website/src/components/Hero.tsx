@@ -23,7 +23,7 @@ const Home: React.FunctionComponent<{}> = () => {
             style={{ alignItems: 'center' }}
           >
             <div className="col col--3 col--offset-1">
-              <img className="rne-hero-logo" src="/img/website/logo.png" />
+              <img className="rne-hero-logo" src="./img/website/logo.png" />
             </div>
             <div className="col col--6 col--offset-1">
               <h1 className="hero__title">
