@@ -1,5 +1,5 @@
 {
-  "version-4.0.0-beta.0/docs": [
+  "docs": [
     {
       "type": "category",
       "collapsed": false,
@@ -8,23 +8,23 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/getting_started"
+          "id": "getting_started"
         },
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/overview"
+          "id": "overview"
         },
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/customization"
+          "id": "customization"
         },
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/web_usage"
+          "id": "web_usage"
         },
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/troubleshooting"
+          "id": "troubleshooting"
         }
       ]
     },
@@ -36,123 +36,123 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/main/airbnbrating"
+          "id": "main/airbnbrating"
         },
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/main/avatar"
+          "id": "main/avatar"
         },
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/main/badge"
+          "id": "main/badge"
         },
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/main/bottomsheet"
+          "id": "main/bottomsheet"
         },
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/main/button"
+          "id": "main/button"
         },
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/main/buttongroup"
+          "id": "main/buttongroup"
         },
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/main/card"
+          "id": "main/card"
         },
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/main/checkbox"
+          "id": "main/checkbox"
         },
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/main/chip"
+          "id": "main/chip"
         },
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/main/divider"
+          "id": "main/divider"
         },
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/main/fab"
+          "id": "main/fab"
         },
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/main/header"
+          "id": "main/header"
         },
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/main/icon"
+          "id": "main/icon"
         },
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/main/image"
+          "id": "main/image"
         },
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/main/input"
+          "id": "main/input"
         },
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/main/linearprogress"
+          "id": "main/linearprogress"
         },
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/main/listitem"
+          "id": "main/listitem"
         },
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/main/overlay"
+          "id": "main/overlay"
         },
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/main/pricingcard"
+          "id": "main/pricingcard"
         },
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/main/rating"
+          "id": "main/rating"
         },
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/main/searchbar"
+          "id": "main/searchbar"
         },
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/main/slider"
+          "id": "main/slider"
         },
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/main/socialicon"
+          "id": "main/socialicon"
         },
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/main/speeddial"
+          "id": "main/speeddial"
         },
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/main/switch"
+          "id": "main/switch"
         },
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/main/tab"
+          "id": "main/tab"
         },
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/main/tabview"
+          "id": "main/tabview"
         },
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/main/text"
+          "id": "main/text"
         },
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/main/tile"
+          "id": "main/tile"
         },
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/main/tooltip"
+          "id": "main/tooltip"
         }
       ]
     },
@@ -164,19 +164,19 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/contributing"
+          "id": "contributing"
         },
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/repo/testing"
+          "id": "repo/testing"
         },
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/repo/labels"
+          "id": "repo/labels"
         },
         {
           "type": "doc",
-          "id": "version-4.0.0-beta.0/migration_v3_to_v4"
+          "id": "migration_v3_to_v4"
         }
       ]
     }
