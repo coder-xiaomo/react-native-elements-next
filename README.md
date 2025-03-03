@@ -1,5 +1,5 @@
-> ​**Note:**​ This repo is a community-maintained fork of *[react-native-elements](https://github.com/react-native-elements/react-native-elements)*
->
+​**Note:**​ This repo is a community-maintained fork of *[react-native-elements](https://github.com/react-native-elements/react-native-elements)*
+
 > We extend our gratitude to the original authors for their contributions. The original repository is no longer actively maintained. Therefore, we've created ​this repo​ to **address critical issues**, though <u>**major updates may not be expected**</u>.
 >
 > If you encounter unresolved issues from the original repository, you can create a pr in this repository. We will merge qualified fixes and publish updated npm versions to mitigate compatibility issues caused by the discontinuation of the original repository.
