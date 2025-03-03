@@ -1,6 +1,6 @@
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'React Native Elements' /* title for your website */,
+  title: 'React Native Elements Next' /* title for your website */,
   tagline: 'Cross Platform React Native UI Toolkit',
   url: 'https://reactnativeelements.com' /* your website url */,
   baseUrl: '/' /* base url for your project */,
@@ -58,8 +58,11 @@ const config = {
     announcementBar: {
       id: 'support_us',
       content:
-        'If you like React Native Elements, give it a  <a target="_blank" rel="noopener noreferrer" href="https://github.com/react-native-elements/react-native-elements">star on GitHub!</a> ⭐' +
-        ' and join the <a target="_blank" rel="noopener noreferrer" href="https://discord.gg/e9RBHjkKHa">Discord server</a>!',
+        // 'If you like React Native Elements, give it a  <a target="_blank" rel="noopener noreferrer" href="https://github.com/react-native-elements/react-native-elements">star on GitHub!</a> ⭐' +
+        // ' and join the <a target="_blank" rel="noopener noreferrer" href="https://discord.gg/e9RBHjkKHa">Discord server</a>!',
+        '⭐ <a target="_blank" rel="noopener noreferrer" href="https://github.com/coder-xiaomo/react-native-elements-next">React Native Elements Next</a>' +
+        ' is a community-maintained fork of' +
+        ' <a target="_blank" rel="noopener noreferrer" href="https://github.com/react-native-elements/react-native-elements">React Native Elements</a>',
       backgroundColor: 'var(--navbar-background-color)',
       textColor: 'var(--ifm-navbar-link-color)', // Defaults to `#000`.
       isCloseable: false,
