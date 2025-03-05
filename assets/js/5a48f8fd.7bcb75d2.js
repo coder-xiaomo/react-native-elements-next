@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrne_website=self.webpackChunkrne_website||[]).push([[3641],{37451:e=>{e.exports=JSON.parse('{"permalink":"/react-native-elements-next/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":7,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

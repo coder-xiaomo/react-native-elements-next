@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrne_website=self.webpackChunkrne_website||[]).push([[203],{36466:e=>{e.exports=JSON.parse('[{"label":"Contribution","permalink":"/react-native-elements-next/docs/tags/contribution","count":1},{"label":"Open Source","permalink":"/react-native-elements-next/docs/tags/open-source","count":1}]')}}]);
