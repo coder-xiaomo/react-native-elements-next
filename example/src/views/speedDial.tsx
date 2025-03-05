@@ -1,6 +1,6 @@
 import React from 'react';
 import { Header } from '../components/header';
-import { SpeedDial } from '@rneui/themed';
+import { SpeedDial } from '@rneuinext/themed';
 
 export default () => {
   const [open, setOpen] = React.useState(false);

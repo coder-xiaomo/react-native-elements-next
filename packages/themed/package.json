@@ -1,5 +1,5 @@
 {
-  "name": "@rneui/themed",
+  "name": "@rneuinext/themed",
   "version": "4.0.0-rc.8",
   "description": "Cross Platform React Native UI Toolkit",
   "main": "dist/index.js",
@@ -50,10 +50,10 @@
     "logo": "https://opencollective.com/react-native-elements/logo.txt"
   },
   "peerDependencies": {
-    "@rneui/base": "*"
+    "@rneuinext/base": "*"
   },
   "devDependencies": {
-    "@rneui/base": "latest"
+    "@rneuinext/base": "latest"
   },
   "repository": {
     "type": "git",

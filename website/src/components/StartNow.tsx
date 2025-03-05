@@ -11,7 +11,7 @@ const Home: React.FunctionComponent<{}> = () => {
         <div className=" col--offset-4 col col--5 text--center">
           <h6 className="hero__title gradient clip-text">Get started</h6>
           <div>
-            <CodeBlock language="bash">{`npx create-expo-app --template @rneui/template`}</CodeBlock>
+            <CodeBlock language="bash">{`npx create-expo-app --template @rneuinext/template`}</CodeBlock>
           </div>
         </div>
       </div>

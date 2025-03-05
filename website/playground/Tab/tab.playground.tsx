@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { Tab } from '@rneui/base';
+import { Tab } from '@rneuinext/base';
 import Playground from '../../src/components/Playground';
 import { useView, PropTypes } from 'react-view';
 
@@ -8,7 +8,7 @@ const TabPlayground = () => {
     componentName: 'Tab',
     props: {
       children: {
-        value: ` 
+        value: `
           <Tab.Item title="Recent" />
           <Tab.Item title="favourite" />
           <Tab.Item title="cart" />
@@ -41,7 +41,7 @@ const TabPlayground = () => {
       Tab,
     },
     imports: {
-      '@rneui/base': {
+      '@rneuinext/base': {
         named: ['Tab'],
       },
     },

@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { ButtonGroup } from '@rneui/base';
+import { ButtonGroup } from '@rneuinext/base';
 
 import Playground from '../../src/components/Playground';
 import { useView, PropTypes } from 'react-view';
@@ -98,7 +98,7 @@ const ButtonGroupPlayground = () => {
       ButtonGroup,
     },
     imports: {
-      '@rneui/base': {
+      '@rneuinext/base': {
         named: ['ButtonGroup'],
       },
     },

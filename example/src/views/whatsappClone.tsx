@@ -15,7 +15,7 @@ import {
   Badge,
   Tab,
   TabView,
-} from '@rneui/themed';
+} from '@rneuinext/themed';
 import { Header } from '../components/header';
 
 const ScreenWidth = Dimensions.get('window').width;

@@ -11,12 +11,12 @@ module.exports = function (api) {
         {
           extensions: ['.js', '.ios.js', '.android.js', '.json', '.tsx', '.ts'],
           alias: {
-            '@rneui/base/dist': path.resolve(
+            '@rneuinext/base/dist': path.resolve(
               __dirname,
               '..',
               'packages/base/src'
             ),
-            '@rneui/themed': path.resolve(
+            '@rneuinext/themed': path.resolve(
               __dirname,
               '..',
               'packages/themed/src'
@@ -26,7 +26,7 @@ module.exports = function (api) {
               '..',
               'node_modules/@expo/vector-icons/build/Icons'
             ),
-            '@rneui/base': path.resolve(__dirname, '..', 'packages/base/src'),
+            '@rneuinext/base': path.resolve(__dirname, '..', 'packages/base/src'),
           },
         },
       ],

@@ -1,5 +1,5 @@
 {
-  "name": "@rneui/base",
+  "name": "@rneuinext/base",
   "version": "4.0.0-rc.8",
   "description": "Cross Platform React Native UI Toolkit",
   "main": "dist/index.js",

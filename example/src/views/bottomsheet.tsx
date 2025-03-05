@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { BottomSheet, Button, ListItem } from '@rneui/themed';
+import { BottomSheet, Button, ListItem } from '@rneuinext/themed';
 import { StyleSheet } from 'react-native';
 import { Header } from '../components/header';
 

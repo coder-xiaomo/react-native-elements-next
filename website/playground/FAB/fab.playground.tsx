@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { FAB } from '@rneui/base';
+import { FAB } from '@rneuinext/base';
 
 import Playground from '../../src/components/Playground';
 import { useView, PropTypes } from 'react-view';
@@ -51,7 +51,7 @@ const FabPlayground = () => {
       FAB,
     },
     imports: {
-      '@rneui/base': {
+      '@rneuinext/base': {
         named: ['FAB'],
       },
     },

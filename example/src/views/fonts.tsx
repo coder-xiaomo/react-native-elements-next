@@ -1,6 +1,6 @@
 import React from 'react';
 import { ScrollView, StyleSheet, Platform } from 'react-native';
-import { Text } from '@rneui/themed';
+import { Text } from '@rneuinext/themed';
 import { Header } from '../components/header';
 
 const iOS_fonts = [

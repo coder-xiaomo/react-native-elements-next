@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { SpeedDial } from '@rneui/base';
+import { SpeedDial } from '@rneuinext/base';
 import Playground from '../../src/components/Playground';
 import { useView, PropTypes } from 'react-view';
 
@@ -49,7 +49,7 @@ const SpeedDialPlayground = () => {
       SpeedDial,
     },
     imports: {
-      '@rneui/base': {
+      '@rneuinext/base': {
         named: ['SpeedDial'],
       },
     },

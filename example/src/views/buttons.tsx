@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
 import { View, ScrollView, StyleSheet } from 'react-native';
-import { Button } from '@rneui/themed';
-import { ButtonGroup, withTheme, Text, Icon } from '@rneui/themed';
+import { Button } from '@rneuinext/themed';
+import { ButtonGroup, withTheme, Text, Icon } from '@rneuinext/themed';
 import { Header, SubHeader } from '../components/header';
 import { LinearGradient } from '../components/LinearGradient';
-import { Stack } from '@rneui/layout';
+import { Stack } from '@rneuinext/layout';
 
 type ButtonsComponentProps = {};
 

@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { Badge } from '@rneui/base';
+import { Badge } from '@rneuinext/base';
 import Playground from '../../src/components/Playground';
 import { useView, PropTypes } from 'react-view';
 
@@ -57,7 +57,7 @@ const BadgePlayground = () => {
       Badge,
     },
     imports: {
-      '@rneui/base': {
+      '@rneuinext/base': {
         named: ['Badge'],
       },
     },

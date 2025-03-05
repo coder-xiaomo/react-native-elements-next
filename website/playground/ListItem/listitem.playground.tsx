@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { TouchableHighlight } from 'react-native';
-import { ListItem, Avatar, Text } from '@rneui/base';
+import { ListItem, Avatar, Text } from '@rneuinext/base';
 
 import Playground from '../../src/components/Playground';
 import { useView, PropTypes } from 'react-view';
@@ -11,7 +11,7 @@ const ListItemPlayground = () => {
     props: {
       children: {
         type: PropTypes.ReactNode,
-        value: `<Avatar source={{uri: "https://avatars0.githubusercontent.com/u/32242596?s=460&u=1ea285743fc4b083f95d6ee0be2e7bb8dcfc676e&v=4"}} /> 
+        value: `<Avatar source={{uri: "https://avatars0.githubusercontent.com/u/32242596?s=460&u=1ea285743fc4b083f95d6ee0be2e7bb8dcfc676e&v=4"}} />
           <ListItem.Content>
             <ListItem.Title><Text>Pranshu Chittora</Text></ListItem.Title>
             <ListItem.Subtitle><Text>React Native Elements</Text></ListItem.Subtitle>
@@ -68,7 +68,7 @@ const ListItemPlayground = () => {
       TouchableHighlight,
     },
     imports: {
-      '@rneui/base': {
+      '@rneuinext/base': {
         named: ['ListItem', 'Avatar'],
       },
       'react-native': {

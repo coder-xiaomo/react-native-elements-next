@@ -3877,9 +3877,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@rneui/base@npm:latest":
+"@rneuinext/base@npm:latest":
   version: 4.0.0-rc.8
-  resolution: "@rneui/base@npm:4.0.0-rc.8"
+  resolution: "@rneuinext/base@npm:4.0.0-rc.8"
   dependencies:
     "@types/react-native-vector-icons": ^6.4.10
     color: ^3.2.1
@@ -3894,9 +3894,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@rneui/base@workspace:packages/base":
+"@rneuinext/base@workspace:packages/base":
   version: 0.0.0-use.local
-  resolution: "@rneui/base@workspace:packages/base"
+  resolution: "@rneuinext/base@workspace:packages/base"
   dependencies:
     "@types/color": ^3.0.3
     "@types/hoist-non-react-statics": ^3.3.1
@@ -3915,9 +3915,9 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@rneui/doc-gen@workspace:scripts/docgen":
+"@rneuinext/doc-gen@workspace:scripts/docgen":
   version: 0.0.0-use.local
-  resolution: "@rneui/doc-gen@workspace:scripts/docgen"
+  resolution: "@rneuinext/doc-gen@workspace:scripts/docgen"
   dependencies:
     "@types/dedent": ^0.7.0
     "@types/lodash.orderby": ^4.6.7
@@ -3933,20 +3933,20 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@rneui/layout@npm:^0.0.0-alpha.4":
+"@rneuinext/layout@npm:^0.0.0-alpha.4":
   version: 0.0.0-alpha.4
-  resolution: "@rneui/layout@npm:0.0.0-alpha.4"
+  resolution: "@rneuinext/layout@npm:0.0.0-alpha.4"
   checksum: 50ab27edfe98df51df693eb769e2ba6dc94ab8a33dc3cc3dc64d8f892ed9b0765c44704bedcac84183f08e0d479508bc4574c4e45c5f2f724785e39ccf4bfd0f
   languageName: node
   linkType: hard
 
-"@rneui/themed@workspace:packages/themed":
+"@rneuinext/themed@workspace:packages/themed":
   version: 0.0.0-use.local
-  resolution: "@rneui/themed@workspace:packages/themed"
+  resolution: "@rneuinext/themed@workspace:packages/themed"
   dependencies:
-    "@rneui/base": latest
+    "@rneuinext/base": latest
   peerDependencies:
-    "@rneui/base": "*"
+    "@rneuinext/base": "*"
   languageName: unknown
   linkType: soft
 
@@ -16995,7 +16995,7 @@ __metadata:
     "@react-navigation/drawer": ^5.12.9
     "@react-navigation/native": ^5.9.8
     "@react-navigation/stack": ^5.14.9
-    "@rneui/layout": ^0.0.0-alpha.4
+    "@rneuinext/layout": ^0.0.0-alpha.4
     babel-loader: ^8.2.5
     babel-preset-expo: ~9.2.1
     expo: ^47.0.0

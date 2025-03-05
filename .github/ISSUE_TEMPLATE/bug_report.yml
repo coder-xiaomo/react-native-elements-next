@@ -50,13 +50,13 @@ body:
   - type: textarea
     attributes:
       label: Your Environment
-      description: Run `npx @rneui/envinfo` and paste the results.
+      description: Run `npx @rneuinext/envinfo` and paste the results.
       value: |
         <details>
-        <summary>`npx @rneui/envinfo`</summary>
+        <summary>`npx @rneuinext/envinfo`</summary>
 
               ```
-                Output from `npx @rneui/envinfo` goes here.
+                Output from `npx @rneuinext/envinfo` goes here.
               ```
 
         </details>

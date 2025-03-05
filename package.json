@@ -1,5 +1,5 @@
 {
-  "name": "rneui",
+  "name": "rneuinext",
   "displayName": "React Native Elements UI Toolkit",
   "private": true,
   "packageManager": "yarn@3.2.4",
@@ -12,10 +12,10 @@
   },
   "scripts": {
     "build": "lerna run build",
-    "build:docs-api": "yarn workspace @rneui/doc-gen build",
+    "build:docs-api": "yarn workspace @rneuinext/doc-gen build",
     "clean-build": "rimraf packages/*/dist",
     "clean-install": "rimraf node_modules && yarn",
-    "docs-build-api": "yarn workspace @rneui/doc-gen build",
+    "docs-build-api": "yarn workspace @rneuinext/doc-gen build",
     "docs-build": "yarn docs-build-api && cd website && yarn run build",
     "example:start": "yarn workspace react-native-elements-app start",
     "format": "prettier --check ./packages",
@@ -92,8 +92,8 @@
       "PR: Deprecation: :loudspeaker:": ":loudspeaker: Deprecation"
     },
     "scopes": {
-      "base": "@rneui/base",
-      "themed": "@rneui/themed",
+      "base": "@rneuinext/base",
+      "themed": "@rneuinext/themed",
       "website/docs": "Docs"
     }
   }

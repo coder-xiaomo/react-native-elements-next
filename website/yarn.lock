@@ -3308,9 +3308,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@rneui/base@file:../packages/base::locator=rne-website%40workspace%3A.":
+"@rneuinext/base@file:../packages/base::locator=rne-website%40workspace%3A.":
   version: 4.0.0-rc.8
-  resolution: "@rneui/base@file:../packages/base#../packages/base::hash=26b3cb&locator=rne-website%40workspace%3A."
+  resolution: "@rneuinext/base@file:../packages/base#../packages/base::hash=26b3cb&locator=rne-website%40workspace%3A."
   dependencies:
     "@types/react-native-vector-icons": ^6.4.10
     color: ^3.2.1
@@ -3325,9 +3325,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@rneui/layout@npm:^0.0.0-alpha.6":
+"@rneuinext/layout@npm:^0.0.0-alpha.6":
   version: 0.0.0-alpha.6
-  resolution: "@rneui/layout@npm:0.0.0-alpha.6"
+  resolution: "@rneuinext/layout@npm:0.0.0-alpha.6"
   checksum: 1ab9df8e0d832411faf51ff23b7e7ccd702569e7515f4cc740bd82b6899c808ede43dc75f4de43361d2ea90ce33f69be86f8cf8cef9dde4cac84f2ff2fc11d99
   languageName: node
   linkType: hard
@@ -13178,8 +13178,8 @@ __metadata:
     "@docusaurus/preset-classic": ^2.4.3
     "@docusaurus/theme-live-codeblock": 2.4.3
     "@docusaurus/types": ^2.4.3
-    "@rneui/base": ../packages/base
-    "@rneui/layout": ^0.0.0-alpha.6
+    "@rneuinext/base": ../packages/base
+    "@rneuinext/layout": ^0.0.0-alpha.6
     "@tsconfig/docusaurus": ^1.0.4
     "@types/assert": ^1.5.6
     "@types/jest": ^27.0.3

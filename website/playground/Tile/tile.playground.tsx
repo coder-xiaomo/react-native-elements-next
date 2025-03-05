@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { Tile } from '@rneui/base';
+import { Tile } from '@rneuinext/base';
 import Playground from '../../src/components/Playground';
 import { useView, PropTypes } from 'react-view';
 
@@ -85,7 +85,7 @@ const TilePlayground = () => {
       // SampleImage,
     },
     imports: {
-      '@rneui/base': {
+      '@rneuinext/base': {
         named: ['Tile'],
       },
     },
